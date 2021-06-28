@@ -17,9 +17,7 @@
 	<h3>아이디 중복체크</h3>
 	<p>
 <?php
-	define('DBuser', 'ajy6712');
-	define('DBpass', 'ay2111!!');
-	define('DBname', 'ajy6712');
+	include "define.php";
 
 	$id = $_GET["id"];
 
