@@ -1,0 +1,2 @@
+define.php	define'DBhost','ashram777.cafe24.com'); 추가 / define'DBuser','ashram777'); / define'DBpass','dhanstjd77!'); / define('DBname','ashram777'); 수정
+main.php		10번라인 "localhost" -> DBhost
